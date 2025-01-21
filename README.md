@@ -3,9 +3,9 @@
 ## Before launching the application.
 
 ### You'll need to download:
-* Mysql 8.0
-* Lazarus 4.0
-* WampServer
+* [Mysql 8.0](https://dev.mysql.com/downloads/installer/)
+* [Lazarus 4.0](https://www.lazarus-ide.org/index.php?page=downloads)
+* [WampServer 3.3.5](https://www.wampserver.com/)
 
 ### Make a clone or copy of:
 - Tableau_Proprietaire_Et_Bien
